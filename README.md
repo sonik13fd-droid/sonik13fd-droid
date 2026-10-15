@@ -1,7 +1,16 @@
 ## Hi there 👋
+<h1>Meu nome é Samuel, sou um programador Front-end <h1/>
+<h3>atualmente estou aprendendo a fazendo trabalho nas áreas de:</h3>
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/c2bc8526-f0af-4dfc-8f11-b788be6836be"/>
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/1a5567c5-10a3-415b-9c18-8b00d45006c5" />
+<h3>E começando a aprendizagem em:<h3/>
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/b0a2939c-f9db-4397-a67f-ea88cf62d39c" />  
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/c29ee2a1-1b4e-4c88-95ee-f6aaa3f6f27c" />
 
-<!--
-**sonik13fd-droid/sonik13fd-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonik13fd-droid)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonik13fd-droid)](https://github.com/anuraghazra/github-readme-stats)  
+  
+  <!--
 
 Here are some ideas to get you started:
 
